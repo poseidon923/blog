@@ -1,0 +1,33 @@
+{
+  "name": "fiat",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.3",
+    "cheerio": "^1.0.0-rc.3",
+    "compression": "^1.7.4",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^3.1.5",
+    "errorhandler": "^1.5.1",
+    "express": "~4.16.1",
+    "express-session": "^1.17.1",
+    "formidable": "^1.2.2",
+    "helmet": "^4.2.0",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "method-override": "^3.0.0",
+    "mocha": "^8.2.1",
+    "mongoose": "^5.11.7",
+    "mongoskin": "^2.1.0",
+    "morgan": "^1.9.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6",
+    "stylus": "^0.54.8",
+    "supertest": "^6.0.1"
+  }
+}
